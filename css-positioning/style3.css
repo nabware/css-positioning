@@ -2,7 +2,7 @@ body {
   margin: 0;
   border: 5px solid black;
   height: 100vh;
-  position: relative;
+  position: relative
 }
 
 .one {
@@ -21,10 +21,15 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
+  position: absolute;
+  left: 400px;
+  top: 200px;
 }
 
 .four {
   width: 100px;
   height: 100px;
   background-color: blue;
+  position: absolute;
+  top: 100px
 }
